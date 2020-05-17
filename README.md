@@ -1,9 +1,11 @@
 # DataStorageAssigner
  
 1,What DataStorageAssigner is?
+	
 	DataStorageAssigner is a library to manually manage the storage of your own data in multi-devices,such as EEPROM, FLASH, RAM etc.
 	
 2,Preparation
+	
 	you need to offer your device access interface ( init, write and read ) fisrt by invoke storageDeviceInit
 	
 3,Usage
@@ -16,6 +18,7 @@
 	f, for string, stored as u8, analyze when read.
     
 4,Contact Author
+    
     you can contact author via mail:arthurxu0424@126.com
     
 
